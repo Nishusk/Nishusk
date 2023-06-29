@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/l1BgRvzvyk92jcQ9O/giphy.gif" width="50">  Hi there 👋 This is Nishu Kumari </h2>
+<h2><img src="https://media.giphy.com/media/l1BgRvzvyk92jcQ9O/giphy.gif" width="50">  Hi  👋 This is Nishu Kumari </h2>
 
 
 
