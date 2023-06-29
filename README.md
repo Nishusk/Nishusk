@@ -19,7 +19,7 @@
 <!-- https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical -->
 </div>
 
-# Let's Connect <img src="./img/handshake.png.gif" height="38px">
+# Let's Connect <img src="./img/handshake.gif" height="38px">
 
 <div align="center">
  
@@ -35,7 +35,7 @@
 
 </div>
 
-# About Me <img src ="./img/about.gif.gif" height="48px">
+# About Me <img src="./img/about.gif" height="48px">
 
 <img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
 <br />
