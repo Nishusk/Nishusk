@@ -1,17 +1,10 @@
 <h2><img src="https://media.giphy.com/media/l1BgRvzvyk92jcQ9O/giphy.gif" width="50">  Hi  👋 This is Nishu Kumari </h2>
 
-
-
-
-
 <p align="center">
  <a href="https://github.com/Nishusk/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20profile!👋;Front-end%20Developer%20👩‍💻;Building%20responsive%20websites%20📱;Excited%20to%20explore%20web%20development%20frameworks%20🚀;Always%20Eager%20to%20learn%20new%20things%20📚;Enthusiastic%20problem%20solver%20💡;Passionate%20about%20coding%20💻&font=Fira%20Code&center=true&width=630&height=45&color=A52A2A&vCenter=true&size=22">
 </a>
-
 </p>
-
-
 <div align="center"> 
  
 [![](https://visitcount.itsvg.in/api?id=Nishusk&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
@@ -20,7 +13,6 @@
 </div>
 
 # Let's Connect <img src="./img/handshake.gif" height="38px">
-
 <div align="center">
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishu-k-b7b34621a/)
@@ -32,7 +24,6 @@
 <a href="mailto:nishuskumari05@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=nishuskumari05@gmail.com />
 </a>
-
 </div>
 
 # About Me <img src="./img/about.gif" height="48px">
