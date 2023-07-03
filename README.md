@@ -53,12 +53,9 @@
 
 ## GitHub Stats :
 <div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=Nishusk&theme=dark-blue&hide_border=false&include_all_commits=false&count_private=true&bg_color=121212
-) <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nishusk&theme=dark&hide_border=false) <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishusk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishusk&theme=dark-blue&hide_border=false&include_all_commits=false&count_private=true&bg_color=121212" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishusk&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishusk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 
@@ -74,13 +71,12 @@
 <br>
 
 ## Quine Stats:
-<div align = "center">
- 
-[![Nishusk's GitHub | Languages Over Time](https://stats.quine.sh/Nishusk/languages-over-time?theme=dark)](https://quine.sh)
-[![Nishusk's GitHub | Stats](https://stats.quine.sh/Nishusk/github?theme=dark)](https://quine.sh)
-[![Nishusk's GitHub | Topics Over Time](https://stats.quine.sh/Nishusk/topics-over-time?theme=dark)](https://quine.sh)
-
+<div align="center">
+  <a href="https://stats.quine.sh/Nishusk/languages-over-time?theme=dark"><img src="https://stats.quine.sh/Nishusk/languages-over-time?theme=dark" alt="Languages Over Time" width="400" /></a>
+  <a href="https://stats.quine.sh/Nishusk/github?theme=dark"><img src="https://stats.quine.sh/Nishusk/github?theme=dark" alt="GitHub Stats" width="250" /></a>
+  <a href="https://stats.quine.sh/Nishusk/topics-over-time?theme=dark"><img src="https://stats.quine.sh/Nishusk/topics-over-time?theme=dark" alt="Topics Over Time" width="350" /></a>
 </div>
+
 
 <br>
 
