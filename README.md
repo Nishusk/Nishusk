@@ -70,7 +70,7 @@
 
 ## Quine Stats:
 <div align="center">
-  <a href="https://stats.quine.sh/Nishusk/languages-over-time?theme=dark"><img src="https://stats.quine.sh/Nishusk/languages-over-time?theme=dark" alt="Languages Over Time" width="400" /></a>
+<!--   <a href="https://stats.quine.sh/Nishusk/languages-over-time?theme=dark"><img src="https://stats.quine.sh/Nishusk/languages-over-time?theme=dark" alt="Languages Over Time" width="400" /></a> -->
   <a href="https://stats.quine.sh/Nishusk/github?theme=dark"><img src="https://stats.quine.sh/Nishusk/github?theme=dark" alt="GitHub Stats" width="250" /></a>
   <a href="https://stats.quine.sh/Nishusk/topics-over-time?theme=dark"><img src="https://stats.quine.sh/Nishusk/topics-over-time?theme=dark" alt="Topics Over Time" width="350" /></a>
 </div>
