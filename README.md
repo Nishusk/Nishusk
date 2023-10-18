@@ -67,6 +67,12 @@
 </div>
 
 <br>
+## Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Nishusk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br>
 
 ## Quine Stats:
 <div align="center">
@@ -75,11 +81,4 @@
   <a href="https://stats.quine.sh/Nishusk/topics-over-time?theme=dark"><img src="https://stats.quine.sh/Nishusk/topics-over-time?theme=dark" alt="Topics Over Time" width="350" /></a>
 </div>
 
-
-<br>
-
-## Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Nishusk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
