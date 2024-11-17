@@ -33,6 +33,7 @@
 <img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am deeply passionate about acquiring knowledge, coding, and solving problems.
 <br />
 <img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am constantly expanding my skills and exploring new technologies.
+<br />
 <img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> As an adaptable and resourceful developer, I embrace emerging technologies and keep up with industry trends.
 <br />
 <img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> Strangers are friends waiting to be made! Let's break the ice! Say **Hi** 👋, and let's explore common interests and ideas. Connect with me [Here](https://www.linkedin.com/in/nishu-k-b7b34621a/)!
