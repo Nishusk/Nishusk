@@ -28,19 +28,16 @@
 
 # About Me <img src="./img/about.gif" height="48px">
 
-<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am Nishu Kumari, currently in my 3rd year pursuing a B.Tech in Computer Science Engineering from NIT MIZORAM.
+<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am Nishu Kumari, a passionate learner with a B.Tech in Computer Science Engineering from NIT.
 <br />
-<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am passionate about acquiring knowledge, coding, and problem-solving.
+<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am deeply passionate about acquiring knowledge, coding, and solving problems.
 <br />
-<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> Constantly expanding my skills and exploring new technologies.
+<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> I am constantly expanding my skills and exploring new technologies.
+<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> As an adaptable and resourceful developer, I embrace emerging technologies and keep up with industry trends.
 <br />
-<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> Adaptable and resourceful developer constantly adapting to emerging technologies and industry trends.
-<br />
-<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> Strangers are friends waiting to be made! Let's break the ice! Say **Hi** 👋, and let's discover common interests and ideas. [Here](https://www.linkedin.com/in/nishu-k-b7b34621a/)!
+<img src="https://github.com/Nishusk/Nishusk/blob/main/img/pen.png" width="30" height="30"> Strangers are friends waiting to be made! Let's break the ice! Say **Hi** 👋, and let's explore common interests and ideas. Connect with me [Here](https://www.linkedin.com/in/nishu-k-b7b34621a/)!
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 ## Tech Stack <img src = "https://media3.giphy.com/media/3oKIPoIRrJDteB2Rc4/giphy.gif" width = "30" height = "30">
 <div align="center">
